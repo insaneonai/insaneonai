@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/insaneonai](https://github.com/insaneonai)
 
-- 📝 I regularly write articles on [https://medium.com/@ai.paperdeck](https://medium.com/@ai.paperdeck)
+- 📝 I occasionally write articles on [https://medium.com/@ai.paperdeck](https://medium.com/@ai.paperdeck)
 
 - 📫 How to reach me **jeyadevan@student.tce.edu**
 
