@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeyadevan</h1>
-<h3 align="center">A passionate Freshmen pursuing career in Data Science</h3>
+<h3 align="center">A passionate Freshman pursuing career in Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insaneonai&label=Profile%20views&color=0e75b6&style=flat" alt="insaneonai" /> </p>
 
